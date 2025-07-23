@@ -12,7 +12,7 @@ function Projects() {
         {/* <img src="omikuji.png" alt="おみくじアプリのスクリーンショット" width="300" /> */}
         {/* GitHub リンクやデモURLがあれば↓ */}
         <p>
-          🔗 <a href="https://github.com/ユーザー名/omikuji-app" target="_blank" rel="noreferrer">GitHub リポジトリ</a>
+      <a href="https://github.com/MEITOMI/omikuji-app" target="_blank">GitHub</a>
         </p>
       </div>
     </div>
